@@ -16,6 +16,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/N1Dovud/QR-Code-component)
+- Live URL: (https://n1dovud.github.io/QR-Code-component)
 
 
 ### Built with
@@ -44,4 +45,4 @@ Unfortunately, I did not quite understand why setting the height of the body to 
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/N1Dovud)
+- Frontend Mentor - [N1Dovud](https://www.frontendmentor.io/profile/N1Dovud)
