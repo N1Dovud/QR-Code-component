@@ -15,7 +15,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://github.com/N1Dovud/QR-Code-component)
 
 
 ### Built with
@@ -38,12 +38,10 @@ body {
     background-color: var(--light-gray);
 }
 ```
-
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
-
 Unfortunately, I did not quite understand why setting the height of the body to 100vh centered the main content vertically. Logically, I thought as default, the height is always set to 100vh but now I guess there is smth to learn.
+
 ## Author
 
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/N1Dovud)
