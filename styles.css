@@ -43,10 +43,9 @@ img {
     border-radius: 10px;
     cursor: pointer;
 }
-article {
-    padding:1.2rem;
-}
+
 .big-text {
+    margin-top: 2rem;
     color: var(--dark-blue);
     font-weight: 700;
     font-size: 1.4rem;
